@@ -1,6 +1,6 @@
 ## Hi! I'm Gregori.  👋
 
-  [![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregdalzotto&theme=catppuccin_latte&show_icons=true)](https://github.com/gregdalzotto/github-readme-stats)
+  [![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregdalzotto&theme=catppuccin_latte&show_icons=true&count_private=true)](https://github.com/gregdalzotto/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregdalzotto&layout=compact)
 
 <div style="display: inline_block"><br>
