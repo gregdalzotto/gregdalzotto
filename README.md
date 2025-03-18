@@ -19,5 +19,5 @@
 </div>
 
 <p><br/></p>
- 📧 For new projects, get in touch!
+ For new projects, get in touch! <a href="mailto:gregori.d@gmail.com"><img alt="mail" height="15" width="20" src="https://static.cdnlogo.com/logos/g/24/gmail-icon.svg"></a>
 
