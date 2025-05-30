@@ -1,19 +1,20 @@
-## Hi! I'm Gregori.  👋
+Hi! I'm Gregori.  👋
 
 <!-- Estatísticas do GitHub incluindo organizações -->
+
 <a href="https://github.com/gregdalzotto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?gregdalzotto=gregdalzotto&theme=catppuccin_latte&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?gregdalzotto=gregdalzotto&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gregdalzotto&theme=catppuccin_latte&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregdalzotto&layout=compact" />
 </a>
 
 <!-- Estatísticas de contribuições incluindo organizações (via GitHub Actions) -->
-<!-- Substitua "gregdalzotto" pelo seu nome de usuário quando implementar -->
+
 <a href="https://github.com/gregdalzotto">
-  <img src="https://raw.githubusercontent.com/gregdalzotto/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <!--img src="https://raw.githubusercontent.com/gregdalzotto/github-stats/master/generated/overview.svg#gh-dark-mode-only" / -->
   <img src="https://raw.githubusercontent.com/gregdalzotto/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/gregdalzotto/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <!-- img src="https://raw.githubusercontent.com/gregdalzotto/github-stats/master/generated/languages.svg#gh-dark-mode-only" / -->
   <img src="https://raw.githubusercontent.com/gregdalzotto/github-stats/master/generated/languages.svg#gh-light-mode-only" />
-</a
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,3 +33,4 @@
 
 <p><br/></p>
  For new projects, get in touch! <a href="mailto:gregori.d@gmail.com"><img alt="mail" height="15" width="20" src="https://static.cdnlogo.com/logos/g/24/gmail-icon.svg"></a>
+
